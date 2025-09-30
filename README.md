@@ -9,7 +9,7 @@
 
 ## スクリーンショット (Screenshot)
 
-![personal_portfolio.png](ここにスクリーンショット画像のURLを挿入)
+![https://github.com/user-attachments/assets/ff2c5b22-313f-4f6c-ac79-1c13f024e02c](ここにスクリーンショット画像のURLを挿入)
 
 ## 主な特徴 (Features)
 
